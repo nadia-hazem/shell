@@ -1,12 +1,9 @@
 # shell
-- 👋 Hi, I’m @nadia-hazem
+A school project on shell scripting.
+First coding project after 2 weeks of Os/Hardware courses.
+Containing 10 .sh jobs.
 
-- 👀 I’m interested in dev and web design
 
-- 🌱 I’m currently learning web development
 
-- 💞️ I’m looking to collaborate on dev projects
-
-- 📫 How to reach me : nadia.hazem@laplateforme.io
 
 
